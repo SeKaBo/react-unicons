@@ -16,10 +16,10 @@
     "url": "git+https://github.com/SeKaBo/react-unicons.git"
   },
   "peerDependencies": {
-    "react": ">=15.0.0 <17.0.0"
+    "react": "^18.2.0"
   },
   "dependencies": {
-    "react": ">=15.0.0 <17.0.0"
+    "react": "^18.2.0"
   },
   "keywords": [
     "unicons",
@@ -36,17 +36,17 @@
   },
   "homepage": "https://iconscout.com/unicons",
   "devDependencies": {
-    "@babel/cli": "^7.16.0",
-    "@babel/core": "^7.16.0",
-    "@babel/preset-env": "^7.16.4",
-    "@babel/preset-react": "^7.16.0",
-    "@babel/preset-typescript": "^7.16.0",
+    "@babel/cli": "^7.19.3",
+    "@babel/core": "^7.20.5",
+    "@babel/preset-env": "^7.20.2",
+    "@babel/preset-react": "^7.18.6",
+    "@babel/preset-typescript": "^7.18.6",
     "@iconscout/unicons": "^4.0.1",
-    "@types/react": "^17.0.36",
+    "@types/react": "^18.0.26",
     "babel-plugin-typescript-to-proptypes": "^2.0.0",
-    "cheerio": "^1.0.0-rc.3",
+    "cheerio": "^1.0.0-rc.12",
     "fs-plus": "^3.1.1",
-    "typescript": "^4.5.2",
+    "typescript": "^4.9.4",
     "uppercamelcase": "^3.0.0"
   }
 }
