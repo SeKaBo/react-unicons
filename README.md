@@ -5,18 +5,18 @@
 ## Getting Started
 You can easily install [react-unicons](https://iconscout.com/unicons) using npm.
 ```bash
-npm install --save @iconscout/react-unicons
+npm install --save @sekabo/react-unicons
 ```
 Or using `yarn`
 ```bash
-yarn add @iconscout/react-unicons
+yarn add @sekabo/react-unicons
 ```
 
 ## Usage
 ### Use individual icons
 ```js
 import React from 'react';
-import UilReact from '@iconscout/react-unicons/icons/uil-react'
+import UilReact from '@sekabo/react-unicons/icons/uil-react'
 
 const App = () => {
   return <UilReact size="140" color="#61DAFB" />
@@ -33,7 +33,7 @@ You can customize icons as below:
 ### Usage as full Package
 ```js
 import React from 'react';
-import * as Unicons from '@iconscout/react-unicons';
+import * as Unicons from '@sekabo/react-unicons';
 
 const App = () => {
   return <Unicons.UilReact />
