@@ -2,7 +2,6 @@ node_modules
 **/*.ts
 **/*.tsx
 !**/*.d.ts
-/example/
 /.idea/
 /babel.config.json
 /tsconfig.json
